@@ -2,7 +2,7 @@
 
 **Prepared by:** Taniele Weems Toliver  
 **Project Type:** Independent Quality Assurance & Compliance Portfolio Project  
-**Project Completion:** October 2026  
+**Project Completion:** July 2026
 
 ---
 
