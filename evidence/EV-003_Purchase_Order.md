@@ -5,7 +5,7 @@
 **Procurement Request:** PR-2026-041  
 **Supplier:** Northwest Industrial Components, LLC  
 **Supplier ID:** NIC-2047  
-**Issue Date:** September 2, 2026  
+**Issue Date:** June 2, 2026  
 **Buyer:** Jordan Lee  
 **Procurement Classification:** Quality-Affecting  
 
@@ -23,7 +23,7 @@ The supplier is required to provide the items in accordance with the technical, 
 
 | Line | Item | Quantity | Required Delivery |
 |---|---|---:|---|
-| 001 | Stainless-Steel Isolation Valve, 2-inch | 4 | September 18, 2026 |
+| 001 | Stainless-Steel Isolation Valve, 2-inch | 4 | June 18, 2026 |
 
 ---
 
@@ -88,7 +88,7 @@ Records generated under this procurement shall be maintained as part of the proc
 
 Northwest Industrial Components, LLC was approved for the applicable procurement scope under:
 
-**Supplier Qualification Record SQ-2026-014 — Approved August 27, 2026**
+**Supplier Qualification Record SQ-2026-014 — Approved May 27, 2026**
 
 ---
 
@@ -96,11 +96,11 @@ Northwest Industrial Components, LLC was approved for the applicable procurement
 
 | Role | Name | Action | Date |
 |---|---|---|---|
-| Procurement Specialist | Jordan Lee | Prepared | September 1, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Reviewed | September 2, 2026 |
-| Procurement Manager | Avery Chen | Approved for Release | September 2, 2026 |
+| Procurement Specialist | Jordan Lee | Prepared | June 1, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Reviewed | June 2, 2026 |
+| Procurement Manager | Avery Chen | Approved for Release | June 2, 2026 |
 
-**Purchase Order Release Date:** September 2, 2026
+**Purchase Order Release Date:** June 2, 2026
 
 ---
 
