@@ -115,5 +115,5 @@ The affected valve was not released for use until the documentation discrepancy 
 
 **Evidence ID:** EV-005  
 **Evidence Type:** Receiving Inspection Report  
-**Related Assessment Areas:** QA-05, QA-06, QA-07  
+**Related Assessment Areas:** QA-05, QA-06
 **Simulation Status:** Fictional record created for educational portfolio purposes.
