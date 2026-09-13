@@ -2,7 +2,7 @@
 
 **Organization:** Columbia Basin Technical Services (CBTS)  
 **Procurement Request:** PR-2026-041  
-**Request Date:** August 10, 2026  
+**Request Date:** May 10, 2026  
 **Requestor:** Daniel Mercer, Project Engineer  
 **Procurement Classification:** Quality-Affecting  
 **Project:** Simulated DOE Nuclear-Related Project  
@@ -90,9 +90,9 @@ The following reviews are required before release of the purchase order:
 
 | Role | Name | Approval Status | Date |
 |---|---|---|---|
-| Requestor / Project Engineer | Daniel Mercer | Approved | August 10, 2026 |
-| Procurement Specialist | Jordan Lee | Approved | August 11, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Approved | August 12, 2026 |
+| Requestor / Project Engineer | Daniel Mercer | Approved | May 10, 2026 |
+| Procurement Specialist | Jordan Lee | Approved | May 11, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Approved | May 12, 2026 |
 
 ---
 
