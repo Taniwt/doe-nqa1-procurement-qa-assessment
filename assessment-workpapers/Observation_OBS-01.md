@@ -2,26 +2,31 @@
 
 **Organization:** Columbia Basin Technical Services (CBTS)  
 **Assessment:** Procurement Quality Assurance Assessment  
+**Assessment ID:** QA-2026-001  
 **Observation ID:** OBS-01  
 **Related Assessment Area:** QA-07 — Corrective Action  
 **Classification:** Observation / Opportunity for Improvement  
-**Status:** Open  
-**Date Identified:** September 2026  
+**Status:** Closed — Follow-Up Recommended  
+**Date Identified:** October 2026  
 **Prepared by:** Taniele Weems Toliver  
 
 ---
 
 ## 1. Observation Summary
 
-The corrective-action process reviewed during the assessment adequately documented the identified condition, evaluation, corrective action, responsible parties, and verification activities.
+The corrective-action process reviewed during the assessment adequately documented the identified condition, evaluation, corrective action, responsible parties, implementation verification, effectiveness review, and closure.
 
-However, the corrective-action record could be strengthened by establishing more specific and measurable criteria for evaluating whether the corrective action was effective in preventing recurrence.
+An effectiveness review was performed using documentation from a subsequent simulated quality-affecting shipment, and no similar material-traceability discrepancy was identified.
+
+However, the corrective-action record could be strengthened by establishing more specific and measurable effectiveness criteria and a defined post-implementation monitoring or review period in advance.
 
 ---
 
 ## 2. Assessment Criteria
 
-Corrective actions should address identified conditions adverse to quality and provide sufficient documentation to demonstrate that appropriate actions were implemented and evaluated for effectiveness.
+Corrective actions associated with identified conditions adverse to quality should be appropriately documented, implemented, evaluated for effectiveness, and closed.
+
+Effectiveness verification should provide sufficient objective evidence to demonstrate whether the corrective action achieved its intended result and reduced the likelihood of recurrence.
 
 The assessment considered DOE quality assurance requirements and NQA-1 corrective-action concepts applicable to the simulated procurement process.
 
@@ -35,7 +40,9 @@ The following objective evidence was reviewed:
 - **EV-007 — Corrective Action Record**
 - **Assessment Area QA-07 — Corrective Action**
 
-The records demonstrated traceability between the identified nonconforming condition and the resulting corrective action.
+The records demonstrated traceability between the identified material-traceability documentation discrepancy and the resulting corrective action.
+
+EV-007 also documented implementation verification and review of a subsequent simulated quality-affecting shipment to evaluate whether a similar condition recurred.
 
 ---
 
@@ -43,7 +50,18 @@ The records demonstrated traceability between the identified nonconforming condi
 
 EV-007 documented corrective actions and verification activities associated with the simulated nonconforming condition.
 
-The record did not establish sufficiently specific measurable effectiveness criteria or a defined post-implementation review period for determining whether the corrective action prevented recurrence.
+The corrective-action record demonstrated that:
+
+- Corrective actions were identified and assigned.
+- Implementation was verified.
+- A subsequent simulated quality-affecting shipment was reviewed.
+- No similar material-traceability discrepancy was identified.
+- Effectiveness was determined to be satisfactory.
+- CAR-2026-001 was closed.
+
+However, the record did not establish sufficiently specific measurable effectiveness criteria or a defined post-implementation review or monitoring period in advance.
+
+The effectiveness review therefore demonstrated follow-up activity, but the structure used to define how effectiveness would be measured could be strengthened.
 
 ---
 
@@ -53,7 +71,9 @@ The record did not establish sufficiently specific measurable effectiveness crit
 
 The condition was classified as an observation rather than a finding because the corrective-action process was documented and the applicable control was generally implemented.
 
-Strengthening effectiveness verification would provide greater assurance that corrective actions achieve their intended result and reduce the likelihood of recurrence.
+The corrective action was implemented, effectiveness was reviewed, and no recurrence was identified in the subsequent simulated shipment reviewed.
+
+Strengthening the effectiveness-verification methodology would provide greater assurance that future corrective actions are evaluated consistently against predefined and measurable criteria.
 
 ---
 
@@ -61,13 +81,14 @@ Strengthening effectiveness verification would provide greater assurance that co
 
 Future corrective-action records should establish:
 
-- Defined effectiveness criteria
+- Defined and measurable effectiveness criteria
 - A responsible individual for effectiveness verification
-- A target effectiveness-review date or monitoring period
-- Objective evidence used to determine effectiveness
+- A target effectiveness-review date or defined monitoring period
+- The objective evidence to be reviewed
+- The conditions that would demonstrate successful implementation
 - A documented final effectiveness determination
 
-For example, effectiveness could be evaluated by reviewing subsequent receiving inspections for similar conditions during a defined monitoring period.
+For example, effectiveness could be evaluated by establishing in advance that a defined number of subsequent receiving inspections or a specified monitoring period will be reviewed for recurrence of the same condition.
 
 ---
 
@@ -76,8 +97,11 @@ For example, effectiveness could be evaluated by reviewing subsequent receiving 
 **Assessment Classification:** Observation  
 **Immediate Corrective Action Required:** No  
 **Recommended Follow-Up:** Yes  
+**Assessment Disposition:** Closed as an assessment observation  
 
-The observation should be considered during future improvements to the simulated corrective-action process.
+OBS-01 does not represent an open finding or a condition preventing assessment closeout.
+
+The observation is retained as a documented opportunity for improvement and should be considered when developing future simulated corrective-action records and effectiveness-verification activities.
 
 ---
 
@@ -88,12 +112,18 @@ The observation should be considered during future improvements to the simulated
 | Observation | OBS-01 |
 | Assessment Area | QA-07 |
 | Related Evidence | EV-006, EV-007 |
+| Related NCR | NCR-2026-001 |
+| Related Corrective Action | CAR-2026-001 |
 | Assessment Result | Satisfactory with Observation |
 | Risk Level | Low |
+| Immediate Corrective Action | Not Required |
 | Follow-Up | Recommended |
+| Assessment Disposition | Closed |
 
 ---
 
 ## Portfolio Disclaimer
 
-This observation is part of an independent educational portfolio project using fictional organizations, personnel, transactions, and records. It does not represent an actual DOE or nuclear-industry assessment finding or professional nuclear auditing experience.
+This observation is part of an independent educational portfolio project using fictional organizations, personnel, suppliers, transactions, procurement records, and supporting evidence.
+
+The project demonstrates the application of quality assurance, procurement control, assessment, risk, compliance, nonconformance, and corrective-action concepts. It does not represent an actual DOE or nuclear-industry assessment finding, professional nuclear auditing experience, or work performed on behalf of the U.S. Department of Energy, Bechtel, Energy Northwest, or any other nuclear organization or contractor.
