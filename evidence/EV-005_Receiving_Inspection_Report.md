@@ -33,11 +33,15 @@ The received components were inspected against the applicable purchase-order req
 | Quantity verified | Acceptable |
 | Visible condition inspected | Acceptable |
 | Purchase-order identification verified | Acceptable |
-| Required supplier documentation reviewed | Acceptable |
-| Material traceability documentation reviewed | Acceptable |
+| Required supplier documentation reviewed | Acceptable with Discrepancy |
+| Material traceability documentation reviewed | Discrepancy Identified |
 | Final inspection documentation reviewed | Acceptable |
 
 No visible shipping damage was identified.
+
+During review of the material traceability documentation, the receiving inspector identified a documentation discrepancy affecting one of the four valves.
+
+The identification information associated with that valve could not initially be clearly matched to the corresponding supplier-provided material record.
 
 ---
 
@@ -51,15 +55,25 @@ The shipment included the following supplier documentation:
 
 The documentation was reviewed as part of the receiving inspection.
 
+The final inspection report and packing documentation were acceptable.
+
+Material traceability documentation was present; however, the documentation associated with one valve required additional clarification before that valve could be accepted.
+
 ---
 
 ## 4. Material Traceability Review
 
 Material traceability documentation was provided with the shipment.
 
-The documentation identifies the supplied material and provides traceability information associated with the delivered valves.
+For three valves, the documentation provided sufficient traceability to the applicable material records.
 
-**Review Result:** Acceptable
+For one valve, the identification information could not initially be clearly matched to the applicable material record.
+
+**Review Result:** Discrepancy Identified
+
+The affected valve was referred for evaluation under:
+
+**NCR-2026-001 — Nonconformance Report**
 
 ---
 
@@ -67,7 +81,7 @@ The documentation identifies the supplied material and provides traceability inf
 
 A supplier final inspection report was included with the shipment.
 
-The report indicates that the supplied valves completed the supplier's required final inspection activities before shipment.
+The report indicated that the supplied valves completed the supplier's required final inspection activities before shipment.
 
 **Review Result:** Acceptable
 
@@ -75,11 +89,16 @@ The report indicates that the supplied valves completed the supplier's required 
 
 ## 6. Acceptance Decision
 
-Based on the receiving inspection and documentation available at the time of receipt, the shipment was accepted.
+Based on the receiving inspection:
 
-**Receiving Status:** Accepted
+- **Three valves were accepted** and released from receiving inspection for controlled storage pending project use.
+- **One valve was placed on hold** because the material traceability documentation could not initially be clearly matched to the affected component.
 
-The four valves were released from receiving inspection for controlled storage pending project use.
+The held valve was identified and controlled pending evaluation and resolution under NCR-2026-001.
+
+**Receiving Status:** Partial Acceptance — 3 Accepted / 1 On Hold
+
+The affected valve was not released for use until the documentation discrepancy was resolved.
 
 ---
 
@@ -87,8 +106,8 @@ The four valves were released from receiving inspection for controlled storage p
 
 | Role | Name | Action | Date |
 |---|---|---|---|
-| Receiving Inspector | Taylor Brooks | Inspection Completed | September 18, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Documentation Review | September 18, 2026 |
+| Receiving Inspector | Taylor Brooks | Inspection Completed / Discrepancy Identified | September 18, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Documentation Review / NCR Evaluation Initiated | September 18, 2026 |
 
 ---
 
