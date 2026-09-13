@@ -17,11 +17,15 @@ This purchase order authorizes Northwest Industrial Components, LLC to provide s
 
 The supplier is required to provide the items in accordance with the technical, quality, inspection, documentation, and delivery requirements stated in this purchase order.
 
+---
+
 ## 2. Items Ordered
 
 | Line | Item | Quantity | Required Delivery |
 |---|---|---:|---|
 | 001 | Stainless-Steel Isolation Valve, 2-inch | 4 | September 18, 2026 |
+
+---
 
 ## 3. Technical Requirements
 
@@ -31,6 +35,8 @@ The supplied valves shall:
 - Meet the dimensional and pressure-rating requirements identified in the approved procurement request.
 - Be new and free from visible damage or defects.
 - Be uniquely identifiable to support traceability to the supplier's manufacturing and inspection records.
+
+---
 
 ## 4. Quality Requirements
 
@@ -42,6 +48,8 @@ The supplier shall:
 - Notify CBTS of identified conditions that could affect product conformity.
 - Obtain CBTS approval before implementing substitutions that affect specified technical requirements.
 
+---
+
 ## 5. Required Supplier Documentation
 
 The supplier shall provide the following documentation with shipment:
@@ -51,6 +59,8 @@ The supplier shall provide the following documentation with shipment:
 - Packing documentation
 
 Required documentation shall reference **PO-2026-1187** and be sufficiently identifiable to the delivered components.
+
+---
 
 ## 6. Receiving and Acceptance Requirements
 
@@ -64,17 +74,23 @@ CBTS will verify the shipment before acceptance by reviewing:
 
 Items that do not satisfy applicable acceptance requirements may be placed on hold pending evaluation and disposition.
 
+---
+
 ## 7. Quality Record Requirements
 
 Records generated under this procurement shall be maintained as part of the procurement quality record package and shall be traceable to:
 
 **PO-2026-1187 / PR-2026-041**
 
+---
+
 ## 8. Supplier Qualification
 
 Northwest Industrial Components, LLC was approved for the applicable procurement scope under:
 
 **Supplier Qualification Record SQ-2026-014 — Approved August 27, 2026**
+
+---
 
 ## 9. Review and Authorization
 
@@ -92,5 +108,5 @@ Northwest Industrial Components, LLC was approved for the applicable procurement
 
 **Evidence ID:** EV-003  
 **Evidence Type:** Purchase Order  
-**Related Assessment Areas:** QA-03, QA-04, QA-05, QA-06, QA-07  
+**Related Assessment Areas:** QA-03, QA-04, QA-05, QA-06  
 **Simulation Status:** Fictional record created for educational portfolio purposes.
