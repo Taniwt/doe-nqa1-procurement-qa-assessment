@@ -6,7 +6,7 @@
 **Assessment Type:** Independent Quality Assurance Portfolio Assessment  
 **Assessment Scope:** Quality-Affecting Procurement Activities  
 **Prepared by:** Taniele Weems Toliver  
-**Date:** September 2026  
+**Date:** July 2026 
 **Status:** Completed  
 
 ---
