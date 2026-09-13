@@ -5,7 +5,7 @@
 **Purchase Order:** PO-2026-1187  
 **Procurement Request:** PR-2026-041  
 **Supplier:** Northwest Industrial Components, LLC  
-**Receipt Date:** September 18, 2026  
+**Receipt Date:** June 18, 2026  
 **Inspector:** Taylor Brooks, Receiving Inspector  
 **Procurement Classification:** Quality-Affecting  
 
@@ -13,7 +13,7 @@
 
 ## 1. Receipt Information
 
-The shipment associated with Purchase Order PO-2026-1187 was received on September 18, 2026.
+The shipment associated with Purchase Order PO-2026-1187 was received on June 18, 2026.
 
 The shipment contained four stainless-steel isolation valves identified for use in the simulated DOE nuclear-related project.
 
@@ -106,8 +106,8 @@ The affected valve was not released for use until the documentation discrepancy 
 
 | Role | Name | Action | Date |
 |---|---|---|---|
-| Receiving Inspector | Taylor Brooks | Inspection Completed / Discrepancy Identified | September 18, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Documentation Review / NCR Evaluation Initiated | September 18, 2026 |
+| Receiving Inspector | Taylor Brooks | Inspection Completed / Discrepancy Identified | June 18, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Documentation Review / NCR Evaluation Initiated | June 18, 2026 |
 
 ---
 
@@ -115,5 +115,5 @@ The affected valve was not released for use until the documentation discrepancy 
 
 **Evidence ID:** EV-005  
 **Evidence Type:** Receiving Inspection Report  
-**Related Assessment Areas:** QA-05, QA-06
+**Related Assessment Areas:** QA-05, QA-06  
 **Simulation Status:** Fictional record created for educational portfolio purposes.
