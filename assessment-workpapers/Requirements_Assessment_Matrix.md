@@ -3,7 +3,7 @@
 **Assessment ID:** QA-2026-001  
 **Assessment:** Procurement Quality Assurance Assessment  
 **Assessor:** Taniele Weems Toliver  
-**Date:** October 2026  
+**Date:** July 2026
 **Status:** Completed  
 
 ---
