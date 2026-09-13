@@ -5,7 +5,7 @@
 **Supplier ID:** NIC-2047  
 **Evaluation ID:** SQ-2026-014  
 **Evaluation Type:** Initial Supplier Qualification  
-**Evaluation Date:** August 27, 2026  
+**Evaluation Date:** May 27, 2026  
 **Qualification Status:** Approved  
 
 ---
@@ -93,8 +93,8 @@ Based on the information reviewed, Northwest Industrial Components, LLC demonstr
 
 | Role | Name | Decision | Date |
 |---|---|---|---|
-| Procurement Specialist | Jordan Lee | Recommend Approval | August 27, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Approved | August 27, 2026 |
+| Procurement Specialist | Jordan Lee | Recommend Approval | May 27, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Approved | May 27, 2026 |
 
 ---
 
