@@ -90,5 +90,5 @@ The supplier was qualified before purchase-order release, applicable technical a
 
 **Evidence ID:** EV-004  
 **Evidence Type:** Procurement Review Checklist  
-**Related Assessment Areas:** QA-01, QA-03, QA-04, QA-05, QA-06, QA-07  
+**Related Assessment Areas:** QA-01, QA-02, QA-03, QA-04  
 **Simulation Status:** Fictional record created for educational portfolio purposes.
