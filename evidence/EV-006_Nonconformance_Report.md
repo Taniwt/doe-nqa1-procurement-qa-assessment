@@ -1,32 +1,31 @@
 # EV-006 — Nonconformance Report
 
 **Organization:** Columbia Basin Technical Services (CBTS)  
-**Nonconformance Report:** NCR-2026-001  
+**NCR Number:** NCR-2026-001  
 **Related Purchase Order:** PO-2026-1187  
-**Related Procurement Request:** PR-2026-041  
+**Related Receiving Report:** RI-2026-091  
 **Supplier:** Northwest Industrial Components, LLC  
-**Item:** Stainless-Steel Isolation Valve, 2-inch  
-**Quantity Received:** 4  
-**Date Identified:** September 18, 2026  
-**Status:** Closed — Documentation Corrected
+**Date Identified:** June 18, 2026  
+**Identified By:** Taylor Brooks, Receiving Inspector  
+**Procurement Classification:** Quality-Affecting  
 
 ---
 
-## 1. Nonconformance Description
+## 1. Condition Identified
 
-During receiving inspection of four stainless-steel isolation valves supplied under PO-2026-1187, the receiving inspector identified a discrepancy in the material traceability documentation associated with one valve.
+During receiving inspection of four stainless-steel isolation valves supplied under Purchase Order PO-2026-1187, a discrepancy was identified in the material traceability documentation associated with one valve.
 
-The identification information on the supplier-provided material documentation could not initially be clearly matched to the identification associated with the affected valve.
+The supplier provided material traceability documentation with the shipment; however, the identification information associated with one valve could not initially be clearly matched to the corresponding supplier-provided material record.
 
-Because material traceability was a specified procurement and acceptance requirement, the affected valve could not be accepted until adequate documentation was obtained and reviewed.
+The physical condition of the valve was acceptable, and no visible damage or dimensional discrepancy was identified.
 
 ---
 
 ## 2. Requirement
 
-PO-2026-1187 requires the supplier to provide material traceability information for the supplied components.
+Purchase Order PO-2026-1187 requires the supplier to maintain material traceability and provide material traceability documentation that is sufficiently identifiable to the delivered components.
 
-Receiving inspection requires verification that required supplier documentation is complete and sufficiently identifiable to the delivered components before acceptance.
+Receiving and acceptance requirements also require review of applicable supplier documentation before final acceptance.
 
 ---
 
@@ -34,76 +33,84 @@ Receiving inspection requires verification that required supplier documentation 
 
 The affected valve was:
 
-- Identified as nonconforming
-- Segregated from accepted material
-- Placed on hold
-- Prevented from release or use pending resolution
+- Identified as requiring additional evaluation.
+- Segregated from the three accepted valves.
+- Placed on hold.
+- Prevented from release for project use pending resolution of the documentation discrepancy.
 
-The remaining three valves were not affected by the documentation discrepancy.
-
----
-
-## 4. Initial Risk Evaluation
-
-**Risk Level:** Moderate
-
-The discrepancy did not demonstrate that the valve itself was defective. However, incomplete or unclear traceability documentation could prevent CBTS from demonstrating that the component met applicable procurement and quality requirements.
-
-The valve therefore remained on hold until objective evidence was available to resolve the discrepancy.
+The remaining three valves had acceptable documentation and were released from receiving inspection for controlled storage pending project use.
 
 ---
 
-## 5. Supplier Corrective Response
+## 4. Initial Evaluation
 
-CBTS contacted Northwest Industrial Components, LLC and requested clarification of the material traceability documentation.
+The discrepancy was determined to be documentation-related.
 
-The supplier reviewed its records and provided corrected documentation containing the information necessary to establish traceability between the affected valve and the applicable material record.
+The available supplier records indicated that material traceability information existed; however, the relationship between the affected valve identification and the corresponding material record was not sufficiently clear to support acceptance at the time of receiving inspection.
+
+Additional supplier documentation or clarification was required before the valve could be accepted.
 
 ---
 
-## 6. Verification of Corrected Documentation
+## 5. Supplier Notification
 
-The corrected documentation was reviewed by Quality Assurance.
+Northwest Industrial Components, LLC was notified of the documentation discrepancy on June 18, 2026.
 
-The review confirmed that:
+The supplier was requested to:
 
-- The component identification was traceable to the applicable material record.
-- The documentation corresponded to PO-2026-1187.
-- Required material information was present.
-- The documentation was sufficiently identifiable to the affected valve.
-- No additional discrepancies were identified.
+1. Review the traceability documentation associated with the affected valve.
+2. Verify the correct material record.
+3. Provide corrected or clarified documentation establishing traceability to the affected component.
+4. Review the cause of the documentation discrepancy and identify actions necessary to prevent recurrence.
+
+---
+
+## 6. Supplier Response
+
+On June 19, 2026, the supplier provided corrected traceability documentation.
+
+The revised documentation clearly associated the affected valve identification with the applicable material record.
+
+CBTS Quality Assurance reviewed the corrected documentation and determined that the material traceability requirement was satisfied.
 
 ---
 
 ## 7. Disposition
 
-**Disposition:** Accept as Conforming
+**Disposition:** Accept Following Documentation Correction
 
-Following verification of the corrected documentation, the affected valve was released from hold and accepted.
+The affected valve remained on hold until the corrected documentation was reviewed and verified.
 
-No repair, rework, or physical modification of the component was required because the nonconformance involved documentation rather than the physical condition of the valve.
+Following satisfactory review:
+
+- Material traceability was considered adequately established.
+- The valve was accepted.
+- The hold status was removed.
+- The valve was released for controlled storage pending project use.
+
+No physical repair, rework, or replacement of the valve was required because the identified condition involved documentation traceability rather than a physical product defect.
 
 ---
 
-## 8. Corrective Action
+## 8. Corrective Action Determination
 
-The supplier was notified that future documentation must contain sufficient identifying information to establish clear traceability between supplied components and associated material records.
+Although the immediate documentation discrepancy was resolved, the condition indicated a potential weakness in the supplier's documentation-control process.
 
-CBTS procurement personnel will verify documentation-identification requirements during future procurement reviews involving quality-affecting components.
+A corrective-action record was initiated to evaluate the cause of the documentation discrepancy and identify actions intended to prevent recurrence.
+
+**Corrective Action Reference:** CAR-2026-001
 
 ---
 
-## 9. Closure
-
-The nonconformance was considered resolved after the corrected supplier documentation was reviewed and accepted.
+## 9. NCR Closure
 
 | Role | Name | Action | Date |
 |---|---|---|---|
-| Receiving Inspector | Taylor Brooks | Identified Nonconformance | September 18, 2026 |
-| Quality Assurance Representative | Morgan Reyes | Verified Corrected Documentation | September 19, 2026 |
-| Procurement Manager | Avery Chen | Approved Closure | September 19, 2026 |
+| Quality Assurance Representative | Morgan Reyes | Corrected Documentation Verified | June 19, 2026 |
+| Procurement Specialist | Jordan Lee | Supplier Documentation Accepted | June 19, 2026 |
+| Quality Assurance Representative | Morgan Reyes | NCR Closed | June 19, 2026 |
 
-**NCR Closure Date:** September 19, 2026
+**NCR Status:** Closed
 
 ---
 
@@ -112,5 +119,4 @@ The nonconformance was considered resolved after the corrected supplier document
 **Evidence ID:** EV-006  
 **Evidence Type:** Nonconformance Report  
 **Related Assessment Areas:** QA-05, QA-06, QA-07  
-**Related Evidence:** EV-003, EV-004, EV-005  
 **Simulation Status:** Fictional record created for educational portfolio purposes.
