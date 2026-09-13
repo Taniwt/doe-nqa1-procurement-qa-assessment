@@ -6,7 +6,7 @@
 **Assessment Type:** Independent Quality Assurance Portfolio Assessment  
 **Assessment Scope:** Quality-Affecting Procurement Activities  
 **Prepared by:** Taniele Weems Toliver  
-**Closeout Date:** October 2026  
+**Closeout Date:** July 2026
 **Overall Assessment Result:** Satisfactory  
 **Overall Residual Risk:** Low  
 **Assessment Status:** Closed  
@@ -99,7 +99,7 @@ Implementation of the corrective actions was verified.
 
 A subsequent simulated quality-affecting shipment was reviewed as part of effectiveness verification, and no similar material-traceability discrepancy was identified.
 
-CAR-2026-001 was closed on October 10, 2026.
+CAR-2026-001 was closed on July 10, 2026.
 
 ### Assessment Observation
 
