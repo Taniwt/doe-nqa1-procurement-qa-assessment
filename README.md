@@ -2,116 +2,216 @@
 
 **Prepared by:** Taniele Weems Toliver  
 **Project Type:** Independent Quality Assurance & Compliance Portfolio Project  
-**Date:** September 2026
+**Project Completion:** October 2026  
+
+---
 
 ## Project Overview
 
 This portfolio project demonstrates a simulated end-to-end procurement quality assurance assessment within a fictional Department of Energy (DOE) nuclear-related project environment.
 
-The project follows a procurement lifecycle from initial request and supplier qualification through purchase-order review, receiving inspection, identification of a nonconforming condition, corrective action, assessment results, and final closeout.
+The project follows a quality-affecting procurement lifecycle from initial procurement planning and supplier qualification through purchase-order review, receiving inspection, identification and control of a nonconforming condition, corrective action, effectiveness verification, assessment results, and final closeout.
 
-The scenario was designed to demonstrate practical experience with quality assurance, compliance assessment, procurement controls, requirements traceability, evidence review, risk-based assessment, corrective action, and audit-ready documentation.
+The scenario was designed to demonstrate practical understanding of:
+
+- Quality assurance
+- Compliance assessment
+- Procurement controls
+- Supplier qualification
+- Requirements traceability
+- Objective-evidence review
+- Risk-based assessment
+- Receiving inspection
+- Nonconformance control
+- Corrective action
+- Effectiveness verification
+- Audit-ready documentation
+- Assessment reporting and closeout
 
 Concepts incorporated into the simulation include:
 
 - DOE quality assurance requirements
 - 10 CFR Part 830, Subpart A
 - ASME NQA-1 quality assurance principles
-- Procurement document control
+- Procurement planning and document control
 - Supplier qualification
 - Requirements and evidence traceability
 - Receiving inspection
+- Material traceability
 - Nonconformance identification and disposition
 - Corrective action
+- Effectiveness verification
 - Assessment documentation and closeout
 
-> **Portfolio Disclaimer:** This is an independent educational portfolio project. All organizations, personnel, procurement records, supplier information, findings, and supporting evidence are fictional and were created for simulation purposes. This project does not represent professional nuclear auditing experience or work performed on behalf of the U.S. Department of Energy, Bechtel, or any other nuclear contractor.
+> **Portfolio Disclaimer:** This is an independent educational portfolio project. All organizations, personnel, suppliers, procurement records, transactions, findings, observations, and supporting evidence are fictional and were created for simulation purposes. This project does not represent professional nuclear auditing experience or work performed on behalf of the U.S. Department of Energy, Bechtel, Energy Northwest, or any other nuclear contractor or organization.
 
 ---
 
 ## Project Objective
 
-The objective of this assessment is to evaluate whether selected procurement and quality assurance processes provide reasonable assurance that quality-affecting items are properly specified, procured, received, documented, and controlled.
+The objective of this assessment is to evaluate whether selected procurement and quality assurance processes provide reasonable assurance that quality-affecting items are properly specified, procured, received, documented, controlled, and supported by objective evidence.
 
-The assessment demonstrates how requirements can be traced to objective evidence, how gaps can be documented, and how corrective actions can be followed through closure.
+The assessment demonstrates how requirements can be translated into assessment criteria, traced to supporting evidence, evaluated for control effectiveness, and followed through issue identification, corrective action, effectiveness verification, and final closeout.
 
 ---
 
 ## Assessment Scope
 
-The simulated assessment evaluates the following areas:
+The simulated assessment evaluates seven control areas:
 
 | Assessment Area | Focus |
 |---|---|
-| QA-01 | Procurement planning and requirements |
-| QA-02 | Supplier qualification |
-| QA-03 | Purchase-order controls |
-| QA-04 | Procurement document review |
-| QA-05 | Receiving inspection |
-| QA-06 | Nonconformance control |
-| QA-07 | Corrective action and closure |
+| QA-01 | Procurement Planning |
+| QA-02 | Supplier Qualification |
+| QA-03 | Procurement Document Control |
+| QA-04 | Procurement Review and Approval |
+| QA-05 | Receiving Inspection |
+| QA-06 | Control of Nonconforming Conditions |
+| QA-07 | Corrective Action |
 
 ---
 
 ## Assessment Methodology
 
-The project uses an evidence-based assessment process:
+The project uses a structured, evidence-based assessment process:
 
-1. Define the assessment scope and applicable requirements.
-2. Identify the evidence necessary to evaluate each requirement.
-3. Review procurement and supplier documentation.
-4. Map requirements to supporting objective evidence.
-5. Evaluate implementation and identify potential gaps.
-6. Document assessment conclusions and observations.
-7. Review nonconformance and corrective-action records.
-8. Verify corrective-action completion and evidence of closure.
-9. Document final assessment results and closeout.
+1. Define the assessment scope and applicable quality assurance principles.
+2. Establish assessment criteria.
+3. Identify objective evidence necessary to evaluate each criterion.
+4. Review procurement and supplier documentation.
+5. Compare procurement requirements with supplier-facing purchase-order requirements.
+6. Evaluate required reviews and approvals.
+7. Review receiving-inspection activities and acceptance decisions.
+8. Evaluate identification and control of a nonconforming condition.
+9. Review corrective-action implementation.
+10. Evaluate effectiveness verification and closure.
+11. Document assessment results, observations, risk, and final closeout.
 
 This creates traceability from:
 
-**Requirement → Evidence → Assessment → Finding/Observation → Corrective Action → Closure**
+**Requirement → Evidence → Assessment → Finding/Observation → Corrective Action → Effectiveness Verification → Closure**
+
+---
+
+## Key Assessment Scenario
+
+The simulated procurement involved:
+
+**Four 2-inch stainless-steel isolation valves**
+
+supplied by the fictional organization:
+
+**Northwest Industrial Components, LLC**
+
+under:
+
+**PR-2026-041 / PO-2026-1187**
+
+During receiving inspection, four valves were received.
+
+Three valves satisfied the applicable receiving requirements and were accepted.
+
+A material-traceability documentation discrepancy affecting one valve was identified during receiving inspection. The affected valve was placed on hold and prevented from release pending evaluation.
+
+The condition was documented under:
+
+**NCR-2026-001**
+
+The supplier subsequently provided corrected traceability documentation. After the documentation was reviewed and verified, the affected valve was accepted and released.
+
+Corrective action was then documented under:
+
+**CAR-2026-001**
+
+The corrective-action process addressed the underlying documentation-control issue and included implementation verification and an effectiveness review using a subsequent simulated quality-affecting shipment.
+
+No similar material-traceability discrepancy was identified in the subsequent shipment reviewed.
+
+The scenario demonstrates the lifecycle:
+
+**Detection → Control → Evaluation → Correction → Corrective Action → Verification → Closure**
 
 ---
 
 ## Repository Structure
 
 ### `assessment-plan/`
-Contains the assessment planning documentation defining the purpose, scope, criteria, methodology, and planned assessment activities.
+
+Contains the assessment planning documentation defining the purpose, scope, criteria, methodology, evidence package, classification approach, and planned deliverables.
 
 ### `evidence/`
+
 Contains the fictional objective evidence used throughout the assessment:
 
-- **EV-001 – Procurement Request**
-- **EV-002 – Supplier Qualification Record**
-- **EV-003 – Purchase Order**
-- **EV-004 – Procurement Review Checklist**
-- **EV-005 – Receiving Inspection Report**
-- **EV-006 – Nonconformance Report**
-- **EV-007 – Corrective Action Record**
+- **EV-001 — Procurement Request**
+- **EV-002 — Supplier Qualification Record**
+- **EV-003 — Purchase Order**
+- **EV-004 — Procurement Review Checklist**
+- **EV-005 — Receiving Inspection Report**
+- **EV-006 — Nonconformance Report**
+- **EV-007 — Corrective Action Record**
 
-Together, these records demonstrate the procurement and quality lifecycle from initial procurement through issue identification and corrective action.
+Together, these records demonstrate the simulated procurement and quality lifecycle from planning through corrective-action effectiveness verification.
 
 ### `assessment-workpapers/`
-Contains the analysis and documentation developed from the assessment:
 
-- **Requirements Assessment Matrix** – maps requirements and assessment areas to supporting evidence and conclusions.
-- **Assessment Results** – summarizes the results of the evidence review.
-- **Observation OBS-01** – documents an identified improvement opportunity.
-- **Assessment Closeout** – records the final assessment disposition and closure.
+Contains the assessment documentation developed from the evidence review:
+
+- **Requirements Assessment Matrix** — maps assessment criteria to objective evidence, testing procedures, results, and conclusions.
+- **Assessment Results** — documents detailed results for QA-01 through QA-07.
+- **Observation OBS-01** — documents the identified opportunity to strengthen corrective-action effectiveness verification.
+- **Assessment Closeout** — records the final assessment disposition and closure.
 
 ---
 
-## Key Assessment Scenario
+## Assessment Results
 
-During the simulated procurement lifecycle, receiving inspection identified a condition requiring evaluation.
+The completed simulated assessment resulted in:
 
-The condition was documented through the project's nonconformance process rather than allowing the affected item to proceed without review.
+| Classification | Total |
+|---|---:|
+| Satisfactory | 6 |
+| Satisfactory with Observation | 1 |
+| Findings | 0 |
+| Observations | 1 |
 
-The scenario then follows the issue through:
+**Overall Assessment Result:** SATISFACTORY  
+**Overall Residual Risk:** LOW  
+**Assessment Status:** CLOSED  
 
-**Detection → Documentation → Evaluation → Corrective Action → Verification → Closure**
+No findings requiring immediate corrective action were identified.
 
-This demonstrates the relationship between procurement controls, inspection, nonconformance management, corrective action, and quality assurance oversight.
+---
+
+## Observation OBS-01
+
+One low-risk assessment observation was documented under QA-07 — Corrective Action.
+
+The corrective-action record demonstrated implementation and an effectiveness review. However, the effectiveness-verification methodology could be strengthened by establishing more specific measurable effectiveness criteria and a defined post-implementation monitoring or review period in advance.
+
+Recommended future improvements include:
+
+- Defined measurable effectiveness criteria
+- Assigned responsibility for effectiveness verification
+- A target review date or monitoring period
+- Defined objective evidence to be reviewed
+- A documented basis for the final effectiveness determination
+
+OBS-01 was classified as an opportunity for improvement and did not prevent assessment closeout.
+
+---
+
+## Evidence Traceability
+
+| Evidence ID | Record | Primary Assessment Areas |
+|---|---|---|
+| EV-001 | Procurement Request | QA-01, QA-03, QA-04 |
+| EV-002 | Supplier Qualification Record | QA-02, QA-03 |
+| EV-003 | Purchase Order | QA-03, QA-04, QA-05, QA-06 |
+| EV-004 | Procurement Review Checklist | QA-01, QA-02, QA-03, QA-04 |
+| EV-005 | Receiving Inspection Report | QA-05, QA-06 |
+| EV-006 | Nonconformance Report | QA-05, QA-06, QA-07 |
+| EV-007 | Corrective Action Record | QA-06, QA-07 |
 
 ---
 
@@ -123,21 +223,25 @@ This project demonstrates familiarity with:
 - Compliance Assessment
 - Procurement Controls
 - Supplier Qualification
-- Evidence Review
+- Requirements Analysis
 - Requirements Traceability
+- Objective-Evidence Review
 - Documentation Review
 - Risk-Based Assessment
-- Gap Identification
+- Internal Controls
+- Control Testing
 - Receiving Inspection Controls
+- Material Traceability
 - Nonconformance Management
 - Corrective Action
-- Root Cause Analysis concepts
+- Cause Evaluation
+- Effectiveness Verification
+- Gap Identification
+- Observation Documentation
 - Audit Readiness
-- Internal Controls
-- Regulatory Compliance
-- Assessment Documentation
-- Records Traceability
+- Regulatory Compliance Concepts
 - Issue Tracking and Closure
+- Assessment Reporting
 - GitHub Documentation and Version Control
 
 ---
@@ -146,18 +250,19 @@ This project demonstrates familiarity with:
 
 The completed portfolio includes:
 
-- Assessment plan
-- Requirements assessment matrix
+- QA Assessment Plan
+- Requirements Assessment Matrix
 - Simulated procurement evidence package
-- Supplier qualification documentation
-- Purchase-order documentation
-- Procurement review documentation
-- Receiving inspection documentation
-- Nonconformance documentation
-- Corrective-action documentation
-- Assessment results
-- Documented observation
-- Assessment closeout
+- Procurement Request
+- Supplier Qualification Record
+- Purchase Order
+- Procurement Review Checklist
+- Receiving Inspection Report
+- Nonconformance Report
+- Corrective Action Record
+- Assessment Results
+- Assessment Observation
+- Assessment Closeout
 
 ---
 
@@ -165,18 +270,31 @@ The completed portfolio includes:
 
 The simulated assessment concluded that the evaluated procurement quality assurance process was generally effective for the assessed scope.
 
-The assessment demonstrated that procurement requirements could be traced through supplier qualification, procurement documentation, receiving activities, issue identification, corrective action, and final closure.
+The evidence demonstrated traceability from procurement planning and supplier qualification through procurement authorization, receiving inspection, identification and control of a nonconforming condition, corrective action, effectiveness verification, and final closure.
 
-An assessment observation was documented to identify an opportunity for process improvement without representing a breakdown of the overall quality assurance program.
+One low-risk observation was documented to identify an opportunity to strengthen the structure and documentation of future corrective-action effectiveness verification.
 
-The completed project provides an organized, traceable evidence package demonstrating the lifecycle of a structured quality and compliance assessment from planning and evidence review through findings, corrective action, and closeout.
+The completed project provides an organized and traceable evidence package demonstrating the lifecycle of a structured quality and compliance assessment from planning through final closeout.
 
 ---
 
 ## Portfolio Purpose
 
-This project was created to strengthen practical understanding of quality assurance, compliance, procurement oversight, evidence-based assessment, and corrective-action processes.
+This project was created to strengthen practical understanding of quality assurance, compliance, procurement oversight, evidence-based assessment, nonconformance control, and corrective-action processes.
 
 It complements my background in Information Systems and Cybersecurity and previous experience working with government contracting requirements and compliance-focused documentation.
 
-The repository is intended to demonstrate my ability to understand requirements, organize evidence, evaluate controls, document findings, maintain traceability, and communicate assessment results clearly.
+The repository is intended to demonstrate my ability to understand requirements, organize evidence, evaluate controls, document assessment results, maintain traceability, identify improvement opportunities, and communicate assessment conclusions clearly.
+
+---
+
+## Final Project Status
+
+**Assessment ID:** QA-2026-001  
+**Evidence Package:** EV-001 through EV-007  
+**Assessment Areas:** QA-01 through QA-07  
+**Findings:** 0  
+**Observations:** 1  
+**Residual Risk:** Low  
+**Overall Result:** Satisfactory  
+**Status:** Closed
