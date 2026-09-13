@@ -1,213 +1,229 @@
-# Quality Assurance Assessment Plan
+# Procurement Quality Assurance Assessment Plan
 
+**Organization:** Columbia Basin Technical Services (CBTS)  
 **Assessment ID:** QA-2026-001  
-**Assessment Title:** Procurement Quality Assurance Assessment  
+**Assessment:** Procurement Quality Assurance Assessment  
+**Assessment Type:** Independent Quality Assurance Portfolio Assessment  
+**Assessment Scope:** Quality-Affecting Procurement Activities  
 **Prepared by:** Taniele Weems Toliver  
-**Assessment Type:** Simulated Independent QA Assessment  
 **Date:** September 2026  
-**Status:** Planned
+**Status:** Completed  
 
 ---
 
 ## 1. Purpose
 
-The purpose of this simulated independent assessment is to evaluate selected procurement and quality assurance controls within a fictional contractor supporting a Department of Energy (DOE) nuclear-related project.
+The purpose of this assessment is to evaluate whether selected procurement activities affecting quality are adequately planned, reviewed, documented, controlled, and supported by objective evidence.
 
-The assessment is designed to determine whether procurement activities are appropriately planned, documented, reviewed, and supported by objective evidence, and whether identified quality issues are effectively documented and corrected.
+The assessment is designed as a simulated quality assurance portfolio project to demonstrate the application of assessment methodology, procurement controls, requirements traceability, objective-evidence review, nonconformance control, corrective action, and assessment documentation.
 
-This assessment also provides a practical opportunity to apply quality assurance concepts to procurement and operations, areas that align with my professional background in government contracting.
+---
 
-## 2. Assessment Scenario
+## 2. Assessment Objective
 
-For this project, I created a fictional organization named **Columbia Basin Technical Services (CBTS)**.
+The objective is to determine whether the simulated procurement process provides reasonable assurance that:
 
-CBTS is a fictional government contractor that procures equipment, materials, and technical services in support of a DOE nuclear-related project.
+- Procurement requirements are identified before purchase-order release.
+- Suppliers are appropriately evaluated and qualified before use.
+- Applicable technical and quality requirements are transferred into procurement documents.
+- Required procurement reviews and approvals are completed.
+- Purchased items are inspected against applicable acceptance requirements.
+- Nonconforming conditions are identified, controlled, evaluated, and dispositioned.
+- Corrective actions are documented, implemented, evaluated for effectiveness, and appropriately closed.
+- Assessment activities and conclusions are supported by traceable objective evidence.
 
-The organization maintains a Quality Assurance Program that requires procurement activities affecting quality to be appropriately controlled, documented, reviewed, and retained as quality records.
+---
 
-For this simulated assessment, I am acting as an independent QA assessor reviewing a sample of CBTS procurement activities.
+## 3. Assessment Scope
 
-> **Note:** CBTS and all records, personnel, suppliers, transactions, and findings used in this assessment are fictional and were created solely for educational and portfolio purposes.
+The assessment evaluates the following seven areas:
 
-## 3. Assessment Objectives
+| Assessment Area | Control Area |
+|---|---|
+| QA-01 | Procurement Planning |
+| QA-02 | Supplier Qualification |
+| QA-03 | Procurement Document Control |
+| QA-04 | Procurement Review and Approval |
+| QA-05 | Receiving Inspection |
+| QA-06 | Control of Nonconforming Conditions |
+| QA-07 | Corrective Action |
 
-The objectives of the assessment are to determine whether:
+The assessment follows the simulated procurement lifecycle from initial procurement planning through supplier qualification, purchase-order authorization, receiving inspection, identification and control of a nonconforming condition, corrective action, effectiveness verification, and final assessment closeout.
 
-1. Procurement requirements are clearly defined and documented before purchase.
-2. Applicable quality requirements are communicated to suppliers.
-3. Suppliers are appropriately evaluated and approved.
-4. Procurement documents receive appropriate review and approval.
-5. Purchased items and services are verified against established requirements.
-6. Quality records provide sufficient objective evidence of completed activities.
-7. Conditions adverse to quality are identified and documented.
-8. Corrective actions address identified deficiencies and their underlying causes.
-9. Corrective-action effectiveness is verified before closure.
-10. Assessment results support continuous improvement.
+---
 
-## 4. Assessment Scope
+## 4. Assessment Basis
 
-### In Scope
+The assessment incorporates selected quality assurance concepts and principles associated with:
 
-The assessment will evaluate a sample of fictional records associated with one procurement cycle, including:
-
-- Procurement request
-- Supplier qualification record
-- Purchase order
-- Applicable quality requirements
-- Procurement approval documentation
-- Receiving/inspection record
-- Quality records
-- Corrective-action record
-- Corrective-action closure documentation
-
-### Out of Scope
-
-The following areas are outside the scope of this simulated assessment:
-
-- Engineering design verification
-- Nuclear safety analysis
-- Radiological controls
-- Physical inspection of nuclear equipment
-- Software quality assurance
-- Environmental compliance
-- Actual DOE or contractor records
-- Determination of regulatory compliance for a real nuclear facility
-- ## 5. Assessment Criteria
-
-The assessment will use criteria informed by the following quality assurance requirements and principles:
-
-### DOE Order 414.1E – Quality Assurance
-
-The assessment will consider DOE quality assurance principles related to:
-
-- Establishing and implementing effective quality assurance controls
-- Ensuring work is performed in accordance with established requirements
-- Maintaining objective evidence that requirements have been met
-- Identifying and correcting quality problems
-- Conducting management and independent assessments
-- Supporting continuous improvement
-
-### 10 CFR Part 830, Subpart A – Quality Assurance Requirements
-
-The assessment will consider applicable quality assurance criteria associated with:
-
-- Quality improvement
-- Documents and records
-- Work processes
-- Procurement
-- Inspection and acceptance testing
-- Management assessment
-- Independent assessment
-
-### ASME NQA-1 Quality Assurance Principles
-
-The assessment will apply selected NQA-1 concepts relevant to the project scope, including:
-
+- Department of Energy quality assurance requirements
+- 10 CFR Part 830, Subpart A
+- ASME NQA-1 quality assurance principles
+- Procurement planning and control
+- Supplier qualification
 - Procurement document control
-- Control of purchased items and services
-- Document control
-- Identification and control of items
-- Inspection
-- Control of nonconforming items
+- Receiving inspection
+- Material and documentation traceability
+- Control of nonconforming conditions
 - Corrective action
-- Quality assurance records
-- Audits and assessment-related activities
+- Effectiveness verification
+- Objective-evidence review
+- Assessment documentation and closeout
 
-This portfolio project applies selected concepts for educational purposes and does not represent a determination of regulatory compliance or an NQA-1 certification audit.
+The project is educational and does not represent an official determination of compliance with DOE requirements, 10 CFR Part 830, or ASME NQA-1.
 
-## 6. Assessment Methodology
+---
 
-The assessment will follow a structured, evidence-based approach.
+## 5. Assessment Methodology
 
-### 1. Planning
+The assessment uses a risk-based, evidence-focused approach.
 
-Define the assessment scope, objectives, applicable criteria, records to be reviewed, and expected evidence.
+Assessment activities include:
 
-### 2. Document Review
+1. Identifying the applicable assessment areas and quality assurance principles.
+2. Defining assessment criteria for the selected procurement controls.
+3. Identifying objective evidence necessary to evaluate each criterion.
+4. Reviewing simulated procurement and supplier documentation.
+5. Comparing procurement requirements with purchase-order requirements.
+6. Evaluating required reviews and approvals.
+7. Reviewing receiving-inspection activities and acceptance decisions.
+8. Evaluating identification and control of a simulated nonconforming condition.
+9. Reviewing corrective-action implementation and effectiveness verification.
+10. Documenting assessment conclusions and any findings or observations.
+11. Maintaining traceability between requirements, evidence, assessment results, and closeout.
 
-Review simulated procurement and quality records to determine whether required activities are documented and traceable.
+The assessment is intended to demonstrate the following traceability:
 
-### 3. Evidence Evaluation
+**Requirement → Evidence → Assessment → Finding/Observation → Corrective Action → Closure**
 
-Compare the available objective evidence against established assessment criteria and determine whether the evidence sufficiently demonstrates that the expected control was performed.
+---
 
-### 4. Control Evaluation
+## 6. Assessment Criteria
 
-Evaluate whether selected procurement and quality controls appear appropriately designed and implemented within the simulated scenario.
+### QA-01 — Procurement Planning
 
-### 5. Findings and Observations
+Procurement activities affecting quality should be planned so that applicable technical, quality, documentation, inspection, and acceptance requirements are identified before procurement authorization.
 
-Document identified deficiencies or opportunities for improvement and connect each result to the applicable assessment criterion and supporting evidence.
+### QA-02 — Supplier Qualification
 
-### 6. Root-Cause and Corrective-Action Review
+Suppliers providing quality-affecting items should be evaluated and approved based on their ability to satisfy applicable technical and quality requirements before procurement award.
 
-Evaluate the underlying cause of identified deficiencies and develop corrective actions intended to address the cause rather than only the immediate condition.
+### QA-03 — Procurement Document Control
 
-### 7. Effectiveness Verification
+Applicable technical, quality, documentation, inspection, traceability, and acceptance requirements should be appropriately transferred into procurement documents.
 
-Define follow-up activities that could be used to determine whether corrective actions were successfully implemented and reduced the likelihood of recurrence.
+### QA-04 — Procurement Review and Approval
 
-## 7. Evidence to Be Reviewed
+Procurement documentation should receive required technical, procurement, and quality reviews and approvals before release.
 
-The simulated evidence package will include:
+### QA-05 — Receiving Inspection
+
+Purchased items and associated supplier documentation should be evaluated against applicable purchase-order and acceptance requirements before final acceptance or release for use.
+
+### QA-06 — Control of Nonconforming Conditions
+
+Conditions that do not satisfy applicable requirements should be identified, documented, evaluated, controlled, and dispositioned to prevent unintended acceptance or use.
+
+### QA-07 — Corrective Action
+
+Corrective actions associated with identified quality issues should be documented, implemented, evaluated for effectiveness, and appropriately closed.
+
+---
+
+## 7. Objective Evidence
+
+The assessment uses the following simulated objective evidence:
 
 | Evidence ID | Record | Purpose |
 |---|---|---|
-| EV-001 | Procurement Request | Verify procurement need, requirements, and approval |
-| EV-002 | Supplier Qualification Record | Verify supplier evaluation and approval |
-| EV-003 | Purchase Order | Verify technical and quality requirements are communicated |
-| EV-004 | Procurement Review Checklist | Verify required reviews were completed |
-| EV-005 | Receiving Inspection Record | Verify purchased items were checked against requirements |
-| EV-006 | Quality Record Index | Evaluate record completeness and traceability |
-| EV-007 | Corrective Action Record | Evaluate documentation and resolution of an identified quality issue |
-| EV-008 | Corrective Action Closure Record | Determine whether effectiveness was verified before closure |
+| EV-001 | Procurement Request | Verify procurement need, requirements, acceptance criteria, and approval |
+| EV-002 | Supplier Qualification Record | Verify supplier evaluation, qualification, and approval |
+| EV-003 | Purchase Order | Verify applicable technical and quality requirements were communicated to the supplier |
+| EV-004 | Procurement Review Checklist | Verify required procurement reviews and approvals were completed |
+| EV-005 | Receiving Inspection Report | Verify purchased items and supplier documentation were evaluated against applicable acceptance requirements |
+| EV-006 | Nonconformance Report | Evaluate identification, control, evaluation, and disposition of a nonconforming condition |
+| EV-007 | Corrective Action Record | Evaluate corrective-action implementation, effectiveness verification, and closure |
 
-All evidence used in this project will be fictional and created specifically for the simulated assessment.
+All evidence used in this project is fictional and was created specifically for the simulated assessment.
+
+---
 
 ## 8. Assessment Result Classification
 
-Assessment results will be classified as follows:
+Assessment results are classified as follows:
 
-**Effective**  
-Objective evidence sufficiently demonstrates that the assessed control or process meets the established assessment criterion.
+**Satisfactory**  
+Objective evidence sufficiently demonstrates that the applicable assessment criterion was met.
 
-**Observation**  
-The assessed process does not represent a significant control deficiency, but an opportunity exists to improve consistency, documentation, efficiency, or traceability.
+**Satisfactory with Observation**  
+Objective evidence demonstrates that the applicable assessment criterion was generally met; however, an opportunity for improvement was identified.
 
 **Finding**  
-Objective evidence indicates that an established assessment criterion or expected control was not adequately satisfied and corrective action is warranted.
+Objective evidence demonstrates that an applicable assessment criterion or expected control was not adequately satisfied and corrective action is warranted.
 
 **Not Assessed**  
 The criterion was not evaluated because it fell outside the defined scope or sufficient simulated evidence was not available.
 
+---
+
 ## 9. Risk Prioritization
 
-Findings will be assigned a qualitative risk level to support prioritization:
+Identified issues are evaluated using the following qualitative risk levels:
 
 | Risk Level | Description |
 |---|---|
 | High | A significant control weakness that could materially affect quality, compliance, safety, or the ability to demonstrate that requirements were met. |
 | Medium | A control weakness that could reduce process reliability or documentation quality if not corrected. |
-| Low | A limited issue primarily affecting consistency, efficiency, or record traceability. |
+| Low | A limited issue primarily affecting consistency, documentation, efficiency, verification, or record traceability. |
 
-Risk ratings in this portfolio project are educational assessment judgments and do not represent actual DOE or nuclear safety determinations.
+Risk ratings used in this portfolio project are educational assessment judgments and do not represent actual DOE or nuclear-safety determinations.
+
+---
 
 ## 10. Assessment Deliverables
 
-The completed assessment will produce:
+The completed assessment includes:
 
 - QA Assessment Plan
-- Requirements and Assessment Matrix
+- Requirements Assessment Matrix
 - Simulated Evidence Package
-- Completed Assessment Workpapers
-- Findings and Observations
-- Root-Cause Analysis
-- Corrective Action Tracker
-- Effectiveness Verification Plan
-- Final QA Assessment Report
+- Assessment Results
+- Documented Findings and/or Observations, as applicable
+- Assessment Closeout
 
-## 11. Expected Outcome
+The simulated evidence package consists of EV-001 through EV-007.
 
-The expected outcome is a documented, traceable assessment demonstrating how requirements can be translated into assessment criteria, tested against objective evidence, documented as assessment results, and followed through corrective action and effectiveness verification.
+---
 
-The project is intended to demonstrate practical quality assurance and assessment skills while building working knowledge of quality requirements applicable to DOE nuclear-related environments.
+## 11. Assessment Outcome
+
+The completed assessment provides a documented and traceable evaluation of the selected procurement quality assurance controls.
+
+The assessment demonstrates how requirements can be translated into assessment criteria, evaluated against objective evidence, documented through assessment results, and traced through nonconformance control, corrective action, effectiveness verification, and final closeout.
+
+Final assessment conclusions are documented separately in the Requirements Assessment Matrix, Assessment Results, Observation OBS-01, and Assessment Closeout.
+
+---
+
+## 12. Assessment Completion
+
+All seven planned assessment areas were evaluated using the simulated objective evidence package.
+
+The completed assessment resulted in:
+
+- **6 assessment areas rated Satisfactory**
+- **1 assessment area rated Satisfactory with Observation**
+- **0 Findings**
+- **1 Observation**
+- **Overall Assessment Result: Satisfactory**
+- **Residual Risk: Low**
+
+Observation OBS-01 identifies an opportunity to strengthen the documentation of corrective-action effectiveness verification through more specific measurable criteria and a defined post-implementation monitoring or review period.
+
+---
+
+## Portfolio Disclaimer
+
+This assessment plan is part of an independent educational portfolio project using fictional organizations, personnel, suppliers, transactions, procurement records, and supporting evidence.
+
+The project demonstrates the application of quality assurance, procurement control, assessment, risk, compliance, nonconformance, and corrective-action concepts. It does not represent professional nuclear auditing experience or work performed on behalf of the U.S. Department of Energy, Bechtel, Energy Northwest, or any other nuclear organization or contractor.
