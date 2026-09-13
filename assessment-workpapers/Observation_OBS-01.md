@@ -7,7 +7,7 @@
 **Related Assessment Area:** QA-07 — Corrective Action  
 **Classification:** Observation / Opportunity for Improvement  
 **Status:** Closed — Follow-Up Recommended  
-**Date Identified:** October 2026  
+**Date Identified:** July 2026
 **Prepared by:** Taniele Weems Toliver  
 
 ---
