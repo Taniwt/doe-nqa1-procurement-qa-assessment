@@ -4,7 +4,7 @@
 **Procurement Request:** PR-2026-041  
 **Purchase Order:** PO-2026-1187  
 **Supplier:** Northwest Industrial Components, LLC  
-**Review Date:** September 1, 2026  
+**Review Date:** June 1, 2026  
 **Reviewer:** Morgan Reyes, Quality Assurance Representative  
 **Procurement Classification:** Quality-Affecting  
 
@@ -39,7 +39,7 @@ The review is intended to verify that applicable technical and quality requireme
 
 Supplier qualification record **SQ-2026-014** was reviewed.
 
-Northwest Industrial Components, LLC was approved on **August 27, 2026**, before release of Purchase Order PO-2026-1187.
+Northwest Industrial Components, LLC was approved on **May 27, 2026**, before release of Purchase Order PO-2026-1187.
 
 The supplier's approved scope includes industrial valves, fittings, and related components subject to procurement-specific technical and quality requirements.
 
@@ -81,8 +81,8 @@ The supplier was qualified before purchase-order release, applicable technical a
 
 | Role | Name | Action | Date |
 |---|---|---|---|
-| Quality Assurance Representative | Morgan Reyes | QA Review Completed | September 1, 2026 |
-| Procurement Manager | Avery Chen | Authorized for Release | September 2, 2026 |
+| Quality Assurance Representative | Morgan Reyes | QA Review Completed | June 1, 2026 |
+| Procurement Manager | Avery Chen | Authorized for Release | June 2, 2026 |
 
 ---
 
