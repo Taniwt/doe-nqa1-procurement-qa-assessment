@@ -3,575 +3,454 @@
 **Assessment ID:** QA-2026-001  
 **Assessment:** Procurement Quality Assurance Assessment  
 **Assessor:** Taniele Weems Toliver  
-**Date:** September 2026  
-**Status:** In Progress  
+**Date:** October 2026  
+**Status:** Completed  
 
 ---
 
 ## Purpose
 
-This matrix translates selected quality assurance requirements and principles into specific assessment criteria, assessment questions, expected objective evidence, and documented results.
+This matrix translates selected quality assurance requirements and principles into specific assessment criteria, assessment questions, objective evidence, testing procedures, and documented results.
 
-The matrix provides traceability between the criteria being assessed, the evidence reviewed, and the conclusions reached during the simulated assessment.
-
-## Assessment Approach
-
-For each assessment area, I will:
-
-1. Identify the applicable quality assurance requirement or principle.
-2. Define what the control or process is expected to accomplish.
-3. Develop an assessment question that can be evaluated through objective evidence.
-4. Identify the evidence necessary to evaluate the control.
-5. Review the simulated evidence package.
-6. Document the assessment result.
-7. Record any finding or observation requiring additional action.
+The matrix provides traceability between the criteria assessed, the evidence reviewed, and the conclusions reached during the simulated assessment.
 
 ---
 
-## QA-01 — Procurement Planning
+## Assessment Approach
+
+For each assessment area, the assessment:
+
+1. Identifies the applicable quality assurance requirement or principle.
+2. Defines what the control or process is expected to accomplish.
+3. Establishes an assessment question that can be evaluated through objective evidence.
+4. Identifies the evidence used to evaluate the control.
+5. Reviews the simulated evidence package.
+6. Documents the assessment result.
+7. Records any finding or observation requiring additional consideration.
+
+Assessment results are classified as:
+
+- **Satisfactory**
+- **Satisfactory with Observation**
+- **Finding**
+- **Not Assessed**
+
+---
+
+# QA-01 — Procurement Planning
 
 **Assessment Area:** Procurement Planning  
 **Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 procurement concepts  
 **Risk Priority:** High  
-**Status:** Pending  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Procurement activities affecting quality should be planned and controlled so that applicable technical, quality, documentation, and acceptance requirements are identified before the procurement is approved.
+Procurement activities affecting quality should be planned and controlled so that applicable technical, quality, documentation, inspection, and acceptance requirements are identified before procurement authorization.
 
 ### Assessment Question
 
-Are applicable technical and quality requirements identified and documented before the procurement is approved?
+Were applicable technical and quality requirements identified and documented before the procurement was authorized?
 
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- An approved procurement request
-- Description of the item or service being purchased
-- Applicable technical requirements
-- Applicable quality requirements
-- Defined acceptance criteria
-- Required procurement reviews and approvals
-- Evidence that these activities occurred before the purchase order was released
-
-### Evidence to Be Reviewed
+### Objective Evidence Reviewed
 
 - **EV-001:** Procurement Request
 - **EV-004:** Procurement Review Checklist
 
 ### Testing Procedure
 
-1. Review the procurement request to determine whether the item or service is clearly identified.
-2. Determine whether applicable technical and quality requirements were documented.
-3. Verify that acceptance requirements were established.
-4. Review the procurement checklist for evidence of required review and approval.
-5. Compare approval dates with the purchase-order release date to determine whether required reviews occurred before procurement.
-6. Document whether the available objective evidence supports the assessment criterion.
+1. Reviewed the procurement request to determine whether the item being purchased was clearly identified.
+2. Evaluated whether applicable technical and quality requirements were documented.
+3. Verified that acceptance requirements were established.
+4. Reviewed the procurement checklist for evidence of required review and approval.
+5. Compared approval activities with the purchase-order release process.
+6. Evaluated whether the available objective evidence supported the assessment criterion.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory**
+
+EV-001 identified the procurement need and established applicable technical, quality, documentation, inspection, and acceptance requirements.
+
+EV-004 demonstrated that required procurement-review activities were completed before release of the purchase order.
 
 ### Finding / Observation
 
-**Pending**
+**None**
+
+### Conclusion
+
+Procurement activities were adequately planned and documented.
+
 ---
 
-## QA-02 — Supplier Qualification
+# QA-02 — Supplier Qualification
 
-**Assessment Area:** Supplier Qualification and Oversight  
+**Assessment Area:** Supplier Qualification  
 **Source/Principle:** NQA-1 supplier qualification and purchased items/services concepts  
 **Risk Priority:** High  
-**Status:** Pending  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Suppliers performing quality-affecting work should be evaluated and approved based on their ability to satisfy applicable technical and quality requirements before the procurement is awarded.
+Suppliers providing quality-affecting items should be evaluated and approved based on their ability to satisfy applicable technical and quality requirements before procurement award.
 
 ### Assessment Question
 
-Was the supplier appropriately evaluated and approved before being selected to provide the quality-affecting item or service?
+Was the supplier appropriately evaluated and approved before being selected to provide the quality-affecting items?
 
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Documented supplier evaluation
-- Supplier qualification status
-- Applicable technical and quality capabilities
-- Approval by authorized personnel
-- Qualification or approval date
-- Evidence that supplier approval occurred before procurement award
-- Any conditions or limitations placed on supplier approval
-
-### Evidence to Be Reviewed
+### Objective Evidence Reviewed
 
 - **EV-002:** Supplier Qualification Record
 - **EV-004:** Procurement Review Checklist
 
 ### Testing Procedure
 
-1. Review the Supplier Qualification Record to determine whether an evaluation was performed.
-2. Determine whether the evaluation considered the supplier's ability to meet applicable technical and quality requirements.
-3. Verify that the supplier's approval status is documented.
-4. Verify that approval was provided by authorized personnel.
-5. Compare the supplier approval date with the procurement award or purchase-order release date.
-6. Review any conditions or limitations associated with the supplier's approval.
-7. Document whether the available objective evidence supports the assessment criterion.
+1. Reviewed the supplier qualification record.
+2. Evaluated the supplier's documented technical and quality capabilities.
+3. Verified the qualification decision and approved procurement scope.
+4. Reviewed approval dates and authorized personnel.
+5. Verified that supplier approval occurred before purchase-order release.
+6. Reviewed any limitations or follow-up requirements associated with supplier approval.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory**
+
+EV-002 demonstrated that Northwest Industrial Components, LLC was evaluated and approved for the applicable procurement scope before the quality-affecting purchase order was released.
+
+The qualification record documented the supplier's technical capability, quality controls, inspection practices, traceability capability, corrective-action process, approval decision, and follow-up requirements.
 
 ### Finding / Observation
 
-**Pending**
+**None**
+
+### Conclusion
+
+Supplier qualification controls were adequately implemented.
+
 ---
 
-## QA-03 — Quality Requirement Flow-Down
+# QA-03 — Procurement Document Control
 
-**Assessment Area:** Procurement Requirement Flow-Down  
-**Source/Principle:** NQA-1 procurement document and purchased items/services concepts  
+**Assessment Area:** Procurement Document Control  
+**Source/Principle:** NQA-1 procurement-document control concepts  
 **Risk Priority:** High  
-**Status:** Pending  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Applicable technical, quality, documentation, inspection, acceptance, and other relevant requirements should be incorporated into procurement documents so that the supplier clearly understands the requirements that must be satisfied.
+Applicable technical, quality, documentation, inspection, traceability, and acceptance requirements should be appropriately transferred into procurement documents.
 
 ### Assessment Question
 
-Are applicable quality requirements appropriately communicated to the supplier through the procurement documentation?
+Were the applicable procurement requirements adequately incorporated into the purchase order?
 
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Applicable technical specifications
-- Quality assurance requirements
-- Inspection and acceptance requirements
-- Required supplier documentation or records
-- Applicable reporting or notification requirements
-- Procurement-document review and approval
-- Consistency between internally identified requirements and requirements communicated to the supplier
-
-### Evidence to Be Reviewed
+### Objective Evidence Reviewed
 
 - **EV-001:** Procurement Request
+- **EV-002:** Supplier Qualification Record
 - **EV-003:** Purchase Order
 - **EV-004:** Procurement Review Checklist
 
 ### Testing Procedure
 
-1. Review the Procurement Request to identify applicable technical and quality requirements.
-2. Review the Purchase Order to determine which requirements were communicated to the supplier.
-3. Compare the Purchase Order against the internally identified procurement requirements.
-4. Determine whether applicable quality, documentation, inspection, and acceptance requirements were included.
-5. Review the Procurement Review Checklist for evidence that requirement flow-down was evaluated before release.
-6. Identify any applicable requirement that was documented internally but omitted from the supplier-facing procurement documentation.
-7. Evaluate the potential impact of any identified omission.
-8. Document whether the available objective evidence supports the assessment criterion.
+1. Compared the procurement request with the purchase order.
+2. Verified that the item, quantity, and applicable technical requirements were appropriately communicated.
+3. Evaluated whether quality, inspection, documentation, and material-traceability requirements were included.
+4. Verified that receiving and acceptance requirements were established.
+5. Confirmed traceability between the procurement request, supplier qualification record, and purchase order.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory**
+
+EV-003 incorporated applicable technical, quality, documentation, inspection, traceability, and acceptance requirements.
+
+The purchase order was traceable to PR-2026-041 and the approved supplier qualification record.
 
 ### Finding / Observation
 
-**Pending**
+**None**
+
+### Conclusion
+
+Procurement requirements were adequately transferred into the purchase order.
+
 ---
 
-## QA-04 — Procurement Review and Approval
+# QA-04 — Procurement Review and Approval
 
 **Assessment Area:** Procurement Review and Approval  
-**Source/Principle:** DOE QA / NQA-1 procurement control concepts  
-**Risk Priority:** Medium  
-**Status:** Pending  
-
-### Assessment Criterion
-
-Procurement documents affecting quality should receive appropriate review and approval before release to ensure that applicable technical, quality, documentation, and acceptance requirements have been addressed.
-
-### Assessment Question
-
-Is there objective evidence demonstrating that required procurement reviews and approvals were completed before the purchase order was released?
-
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Completed procurement review
-- Identification of required reviewers
-- Documented approval by authorized personnel
-- Review and approval dates
-- Purchase-order release date
-- Evidence that identified issues were resolved before release
-
-### Evidence to Be Reviewed
-
-- **EV-001:** Procurement Request
-- **EV-003:** Purchase Order
-- **EV-004:** Procurement Review Checklist
-
-### Testing Procedure
-
-1. Review the Procurement Review Checklist to identify required reviews and approvals.
-2. Determine whether all required review fields were completed.
-3. Verify that approvals were provided by the appropriate authorized personnel.
-4. Compare review and approval dates with the Purchase Order release date.
-5. Determine whether any documented issues were resolved before procurement release.
-6. Document whether the available objective evidence supports the assessment criterion.
-
-### Assessment Result
-
-**Pending — simulated evidence has not yet been reviewed.**
-
-### Finding / Observation
-
-**Pending**
-
----
-
-## QA-05 — Document and Records Control
-
-**Assessment Area:** Document and Records Control  
-**Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 document and records control concepts  
-**Risk Priority:** Medium  
-**Status:** Pending  
-
-### Assessment Criterion
-
-Documents and records supporting quality-affecting procurement activities should be appropriately identified, approved, maintained, and traceable so that accurate and retrievable objective evidence is available.
-
-### Assessment Question
-
-Are procurement and quality records appropriately identified, approved, current, and traceable?
-
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Unique document or record identifiers
-- Revision or version information where applicable
-- Approval information
-- Consistent record naming
-- Traceability between related procurement records
-- Evidence that current documents were used
-- A method for locating and retrieving retained quality records
-
-### Evidence to Be Reviewed
-
-- **EV-001:** Procurement Request
-- **EV-003:** Purchase Order
-- **EV-004:** Procurement Review Checklist
-- **EV-006:** Quality Record Index
-
-### Testing Procedure
-
-1. Review selected procurement records for unique identification.
-2. Determine whether applicable revision or version information is documented.
-3. Verify required approvals where applicable.
-4. Compare identifiers across related records to determine whether the procurement package is traceable.
-5. Review the Quality Record Index to determine whether required records are identified and retrievable.
-6. Note inconsistencies in naming, identification, or traceability.
-7. Document whether the available objective evidence supports the assessment criterion.
-
-### Assessment Result
-
-**Pending — simulated evidence has not yet been reviewed.**
-
-### Finding / Observation
-
-**Pending**
-
----
-
-## QA-06 — Receiving Inspection and Acceptance
-
-**Assessment Area:** Verification of Purchased Items and Services  
-**Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 inspection and purchased items/services concepts  
+**Source/Principle:** NQA-1 procurement control and document-review concepts  
 **Risk Priority:** High  
-**Status:** Pending  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Purchased items and services affecting quality should be verified against established procurement and acceptance requirements before they are accepted for use.
+Procurement documentation should receive required technical, procurement, and quality reviews and approvals before release.
 
 ### Assessment Question
 
-Was the purchased item or service appropriately verified against established requirements before acceptance?
+Were required procurement reviews and approvals completed before release of the purchase order?
 
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Identification of the received item
-- Purchase-order reference
-- Defined acceptance criteria
-- Receiving or inspection results
-- Verification of required supplier documentation
-- Identification of the individual performing the inspection or verification
-- Inspection or verification date
-- Documented disposition of any discrepancy
-- Evidence of acceptance before release for use
-
-### Evidence to Be Reviewed
-
-- **EV-003:** Purchase Order
-- **EV-005:** Receiving Inspection Record
-- **EV-006:** Quality Record Index
-
-### Testing Procedure
-
-1. Review the Purchase Order to identify applicable acceptance requirements.
-2. Review the Receiving Inspection Record and compare the inspected item with the Purchase Order.
-3. Determine whether established acceptance criteria were evaluated.
-4. Verify whether required supplier documentation was received and reviewed.
-5. Confirm that inspection or verification results were documented.
-6. Determine whether any discrepancies were identified and appropriately addressed.
-7. Verify that acceptance occurred before the item was released for use.
-8. Document whether the available objective evidence supports the assessment criterion.
-
-### Assessment Result
-
-**Pending — simulated evidence has not yet been reviewed.**
-
-### Finding / Observation
-
-**Pending**
----
-
-## QA-07 — Quality Records Retention and Traceability
-
-**Assessment Area:** Quality Records  
-**Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 quality assurance records concepts  
-**Risk Priority:** Medium  
-**Status:** Pending  
-
-### Assessment Criterion
-
-Quality records should provide sufficient objective evidence that required procurement and quality activities were completed and should be identifiable, traceable, retrievable, and appropriately retained.
-
-### Assessment Question
-
-Does the procurement record package provide complete and traceable objective evidence demonstrating that required quality activities were performed?
-
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Identification of required quality records
-- Traceability to the applicable procurement
-- Completed and approved records where required
-- Record retention information
-- Ability to retrieve the applicable records
-- Identification of missing or incomplete records
-- Consistency between the Quality Record Index and available evidence
-
-### Evidence to Be Reviewed
+### Objective Evidence Reviewed
 
 - **EV-001:** Procurement Request
-- **EV-002:** Supplier Qualification Record
 - **EV-003:** Purchase Order
 - **EV-004:** Procurement Review Checklist
-- **EV-005:** Receiving Inspection Record
-- **EV-006:** Quality Record Index
 
 ### Testing Procedure
 
-1. Review the Quality Record Index to identify records required for the procurement package.
-2. Compare the index against the simulated evidence available for review.
-3. Determine whether required records are present and complete.
-4. Verify traceability between the records and the applicable procurement.
-5. Review applicable approval, date, and identification information.
-6. Identify any missing, incomplete, or inconsistent records.
-7. Document whether the available objective evidence supports the assessment criterion.
+1. Reviewed documented procurement approval requirements.
+2. Reviewed the procurement checklist for evidence of technical, procurement, and quality review.
+3. Verified that supplier qualification status was considered before release.
+4. Reviewed purchase-order authorization records.
+5. Evaluated whether required reviews were completed before procurement release.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory**
+
+The procurement documentation demonstrated the required review and authorization activities.
+
+EV-004 documented review of applicable technical requirements, quality requirements, supplier qualification, documentation requirements, acceptance requirements, and required approvals.
 
 ### Finding / Observation
 
-**Pending**
+**None**
+
+### Conclusion
+
+Required procurement reviews and approvals were adequately documented.
 
 ---
 
-## QA-08 — Identification and Documentation of Quality Issues
+# QA-05 — Receiving Inspection
 
-**Assessment Area:** Quality Issue Identification  
-**Source/Principle:** DOE QA / NQA-1 corrective action concepts  
+**Assessment Area:** Receiving Inspection  
+**Source/Principle:** NQA-1 inspection and acceptance concepts  
 **Risk Priority:** High  
-**Status:** Pending  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Conditions that adversely affect quality should be identified, documented, evaluated, and communicated so that appropriate action can be taken.
+Purchased items and associated supplier documentation should be evaluated against applicable purchase-order and acceptance requirements before final acceptance or release for use.
 
 ### Assessment Question
 
-Are identified quality issues appropriately documented and evaluated based on their potential impact?
+Were the received items and required supplier documentation appropriately evaluated before acceptance or release?
 
-### Expected Objective Evidence
+### Objective Evidence Reviewed
 
-The assessment will look for:
-
-- Clear description of the identified issue
-- Requirement or criterion affected
-- Objective evidence supporting the issue
-- Evaluation of potential impact
-- Assigned responsibility
-- Documentation of required follow-up
-- Traceability to the applicable procurement or quality record
-
-### Evidence to Be Reviewed
-
-- **EV-007:** Quality Issue Report
-- Supporting evidence associated with the identified issue
+- **EV-003:** Purchase Order
+- **EV-005:** Receiving Inspection Report
+- **EV-006:** Nonconformance Report
 
 ### Testing Procedure
 
-1. Review the Quality Issue Report for a clear description of the identified condition.
-2. Determine whether the affected requirement or assessment criterion is identified.
-3. Verify that the issue is supported by objective evidence.
-4. Review the documented evaluation of potential quality impact.
-5. Determine whether responsibility for follow-up was assigned.
-6. Verify traceability between the issue and the applicable procurement records.
-7. Document whether the issue was appropriately identified and evaluated.
+1. Compared the received item and quantity with the purchase order.
+2. Reviewed receiving-inspection documentation.
+3. Evaluated item identity and visible condition.
+4. Reviewed required supplier documentation.
+5. Evaluated material traceability information.
+6. Reviewed the acceptance decision.
+7. Verified that the item affected by the identified documentation discrepancy was controlled rather than released without evaluation.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory**
+
+EV-005 demonstrated that four stainless-steel isolation valves were received and inspected against applicable purchase-order requirements.
+
+Three valves satisfied the applicable receiving requirements and were accepted.
+
+A material-traceability documentation discrepancy affecting one valve was identified during receiving inspection. The affected valve was placed on hold and referred for evaluation under NCR-2026-001 rather than being released without resolution.
 
 ### Finding / Observation
 
-**Pending**
+**None**
+
+### Conclusion
+
+Receiving-inspection controls were effectively demonstrated, including appropriate identification and control of a condition requiring additional evaluation.
 
 ---
 
-## QA-09 — Corrective Action and Root-Cause Analysis
+# QA-06 — Control of Nonconforming Conditions
+
+**Assessment Area:** Control of Nonconforming Conditions  
+**Source/Principle:** NQA-1 control-of-nonconforming-items concepts  
+**Risk Priority:** High  
+**Status:** Completed  
+
+### Assessment Criterion
+
+Conditions that do not satisfy applicable requirements should be identified, documented, evaluated, controlled, and dispositioned to prevent unintended acceptance or use.
+
+### Assessment Question
+
+Was the identified nonconforming condition appropriately controlled, evaluated, documented, and dispositioned?
+
+### Objective Evidence Reviewed
+
+- **EV-003:** Purchase Order
+- **EV-005:** Receiving Inspection Report
+- **EV-006:** Nonconformance Report
+- **EV-007:** Corrective Action Record
+
+### Testing Procedure
+
+1. Reviewed the receiving-inspection discrepancy.
+2. Verified that the affected valve was identified and controlled.
+3. Reviewed the nonconformance record for description and evaluation of the condition.
+4. Evaluated whether the affected valve was prevented from unintended release or use.
+5. Reviewed the disposition and supporting documentation.
+6. Verified that corrected documentation was reviewed before final acceptance.
+
+### Assessment Result
+
+**Satisfactory**
+
+EV-006 documented the identification, evaluation, control, and disposition of the material-traceability documentation discrepancy.
+
+The affected valve was segregated and placed on hold while the condition was evaluated.
+
+Corrected traceability documentation was subsequently obtained and reviewed before the affected valve was accepted and released.
+
+### Finding / Observation
+
+**None**
+
+### Conclusion
+
+The simulated nonconformance process demonstrated appropriate control and disposition of a condition adverse to quality.
+
+---
+
+# QA-07 — Corrective Action
 
 **Assessment Area:** Corrective Action  
-**Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 corrective action concepts  
-**Risk Priority:** High  
-**Status:** Pending  
+**Source/Principle:** 10 CFR Part 830, Subpart A / NQA-1 corrective-action concepts  
+**Risk Priority:** Medium  
+**Status:** Completed  
 
 ### Assessment Criterion
 
-Significant or recurring conditions adverse to quality should be evaluated to determine cause, corrective actions should address the identified cause, and responsibility and completion expectations should be documented.
+Corrective actions associated with identified quality issues should be documented, implemented, evaluated for effectiveness, and appropriately closed.
 
 ### Assessment Question
 
-Does the corrective-action process address the cause of the identified quality issue rather than only correcting the immediate condition?
+Was corrective action appropriately documented, implemented, evaluated for effectiveness, and closed?
 
-### Expected Objective Evidence
+### Objective Evidence Reviewed
 
-The assessment will look for:
-
-- Description of the identified condition
-- Immediate correction or containment action
-- Root-cause analysis
-- Corrective action addressing the identified cause
-- Assigned action owner
-- Target completion date
-- Evidence supporting corrective-action completion
-- Relationship between the corrective action and original finding
-
-### Evidence to Be Reviewed
-
-- **EV-007:** Quality Issue Report
-- **EV-008:** Root-Cause Analysis
-- **EV-009:** Corrective Action Record
+- **EV-006:** Nonconformance Report
+- **EV-007:** Corrective Action Record
 
 ### Testing Procedure
 
-1. Review the documented quality issue and determine the condition requiring corrective action.
-2. Review the Root-Cause Analysis to determine whether the underlying cause was evaluated.
-3. Compare the proposed corrective action with the identified root cause.
-4. Determine whether the action addresses the cause rather than only the immediate symptom.
-5. Verify that responsibility and a target completion date were assigned.
-6. Review available evidence supporting implementation of the corrective action.
-7. Document whether the corrective-action process satisfies the assessment criterion.
+1. Reviewed the relationship between the identified nonconforming condition and the corrective-action record.
+2. Evaluated the documented cause and corrective actions.
+3. Reviewed assigned responsibilities and implementation activities.
+4. Verified documented implementation of corrective actions.
+5. Reviewed the effectiveness-verification activity.
+6. Evaluated whether the corrective-action record provided sufficient evidence to support closure.
+7. Considered whether the effectiveness-verification process could be strengthened.
 
 ### Assessment Result
 
-**Pending — simulated evidence has not yet been reviewed.**
+**Satisfactory with Observation**
+
+EV-007 documented corrective action associated with the identified material-traceability discrepancy.
+
+The record demonstrated traceability between the identified condition, evaluation, corrective action, responsible parties, implementation verification, effectiveness review, and closure.
+
+A subsequent simulated quality-affecting shipment was reviewed and no similar traceability discrepancy was identified.
+
+However, the corrective-action record did not establish sufficiently specific measurable effectiveness criteria or a defined post-implementation review period in advance.
 
 ### Finding / Observation
 
-**Pending**
+**OBS-01 — Corrective-Action Effectiveness Verification**
+
+Future corrective-action records could be strengthened by defining:
+
+- Measurable effectiveness criteria
+- A responsible individual for effectiveness verification
+- A target effectiveness-review date or defined monitoring period
+- Objective evidence to be used in determining effectiveness
+- A documented final effectiveness determination
+
+**Risk Level:** Low  
+**Immediate Corrective Action Required:** No  
+**Recommended Follow-Up:** Yes
+
+### Conclusion
+
+Corrective-action controls were adequately demonstrated, with an opportunity to strengthen the structure and documentation of effectiveness verification.
 
 ---
 
-## QA-10 — Corrective Action Effectiveness Verification
+# Assessment Summary
 
-**Assessment Area:** Corrective Action Effectiveness  
-**Source/Principle:** DOE QA / NQA-1 corrective action and continuous improvement concepts  
-**Risk Priority:** High  
-**Status:** Pending  
-
-### Assessment Criterion
-
-Completed corrective actions should be evaluated, when appropriate, to determine whether they effectively addressed the identified cause and reduced the likelihood of recurrence.
-
-### Assessment Question
-
-Was the completed corrective action independently evaluated to determine whether it effectively addressed the original quality issue?
-
-### Expected Objective Evidence
-
-The assessment will look for:
-
-- Completed corrective-action documentation
-- Evidence that the corrective action was implemented
-- Defined effectiveness criteria
-- Follow-up review or testing
-- Evidence that the original issue did not recur in the reviewed sample
-- Documented effectiveness conclusion
-- Closure approval
-
-### Evidence to Be Reviewed
-
-- **EV-009:** Corrective Action Record
-- **EV-010:** Corrective Action Effectiveness Review
-
-### Testing Procedure
-
-1. Review the completed Corrective Action Record.
-2. Verify objective evidence showing that the corrective action was implemented.
-3. Identify the criteria used to determine effectiveness.
-4. Review follow-up testing or evidence.
-5. Determine whether the original issue recurred in the reviewed sample.
-6. Evaluate whether the evidence reasonably demonstrates that the corrective action addressed the identified cause.
-7. Review the documented effectiveness conclusion and closure approval.
-8. Document whether the available objective evidence supports closure.
-
-### Assessment Result
-
-**Pending — simulated evidence has not yet been reviewed.**
-
-### Finding / Observation
-
-**Pending**
-
----
-
-## Matrix Status Summary
-
-| Assessment ID | Assessment Area | Risk Priority | Status |
+| Assessment Area | Control Area | Result | Finding / Observation |
 |---|---|---|---|
-| QA-01 | Procurement Planning | High | Pending |
-| QA-02 | Supplier Qualification and Oversight | High | Pending |
-| QA-03 | Procurement Requirement Flow-Down | High | Pending |
-| QA-04 | Procurement Review and Approval | Medium | Pending |
-| QA-05 | Document and Records Control | Medium | Pending |
-| QA-06 | Receiving Inspection and Acceptance | High | Pending |
-| QA-07 | Quality Records Retention and Traceability | Medium | Pending |
-| QA-08 | Identification and Documentation of Quality Issues | High | Pending |
-| QA-09 | Corrective Action and Root-Cause Analysis | High | Pending |
-| QA-10 | Corrective Action Effectiveness Verification | High | Pending |
+| QA-01 | Procurement Planning | Satisfactory | None |
+| QA-02 | Supplier Qualification | Satisfactory | None |
+| QA-03 | Procurement Document Control | Satisfactory | None |
+| QA-04 | Procurement Review and Approval | Satisfactory | None |
+| QA-05 | Receiving Inspection | Satisfactory | None |
+| QA-06 | Control of Nonconforming Conditions | Satisfactory | None |
+| QA-07 | Corrective Action | Satisfactory with Observation | OBS-01 |
 
-## Current Assessment Status
+---
 
-The assessment criteria and testing procedures have been established. Assessment results will be updated after the simulated evidence package is created and evaluated.
+## Summary of Results
+
+- **Satisfactory:** 6
+- **Satisfactory with Observation:** 1
+- **Findings:** 0
+- **Observations:** 1
+- **Overall Assessment Result:** Satisfactory
+- **Overall Residual Risk:** Low
+
+The assessment identified no findings requiring immediate corrective action.
+
+OBS-01 identifies an opportunity to strengthen documentation of corrective-action effectiveness verification through more specific measurable criteria and a defined post-implementation monitoring or review period.
+
+---
+
+## Evidence Traceability Summary
+
+| Evidence ID | Record | Primary Assessment Areas |
+|---|---|---|
+| EV-001 | Procurement Request | QA-01, QA-03, QA-04 |
+| EV-002 | Supplier Qualification Record | QA-02, QA-03 |
+| EV-003 | Purchase Order | QA-03, QA-04, QA-05, QA-06 |
+| EV-004 | Procurement Review Checklist | QA-01, QA-02, QA-03, QA-04 |
+| EV-005 | Receiving Inspection Report | QA-05, QA-06 |
+| EV-006 | Nonconformance Report | QA-05, QA-06, QA-07 |
+| EV-007 | Corrective Action Record | QA-06, QA-07 |
+
+---
+
+## Final Assessment Determination
+
+Based on the simulated objective evidence reviewed, the procurement quality assurance process demonstrated adequate implementation of the selected assessment criteria.
+
+The evidence demonstrated traceability from procurement planning and supplier qualification through purchase-order authorization, receiving inspection, nonconformance control, corrective action, effectiveness verification, and closure.
+
+**Final Assessment Status:** Completed  
+**Overall Assessment Result:** SATISFACTORY  
+**Findings:** 0  
+**Observations:** 1  
+**Residual Risk:** LOW
+
+---
+
+## Portfolio Disclaimer
+
+This requirements and assessment matrix is part of an independent educational portfolio project using fictional organizations, personnel, suppliers, transactions, procurement records, and supporting evidence.
+
+The project demonstrates the application of quality assurance, procurement control, assessment, risk, compliance, nonconformance, and corrective-action concepts. It does not represent professional nuclear auditing experience or work performed on behalf of the U.S. Department of Energy, Bechtel, Energy Northwest, or any other nuclear organization or contractor.
