@@ -90,7 +90,7 @@ Based on implementation verification and review of the subsequent simulated qual
 | Role | Name | Action | Date |
 |---|---|---|---|
 | Quality Assurance Representative | Morgan Reyes | Effectiveness Verified | July 10, 2026 |
-| Procurement Manager | Cameron Blake | Corrective Action Closure Approved | July 10, 2026 |
+| Quality Manager | Cameron Blake | Corrective Action Closure Approved | July 10, 2026 |
 
 **CAR Status:** Closed  
 **Closure Date:** July 10, 2026
